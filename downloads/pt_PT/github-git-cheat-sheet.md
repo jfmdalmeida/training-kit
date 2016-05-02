@@ -1,9 +1,4 @@
----
-layout: cheat-sheet
-title: Folheto de ajuda para Git do GitHub (pt-PT)
-byline: Git é um sistema de controlo de versão distribuído open source que facilita ações com o GitHub no seu portátil ou desktop. Este folheto de ajuda resume instruções frequentemente usadas na linha de comando do Git para referência rápida.
-leadingpath: ../../
----
+
 
 {% capture colOne %}
 ## Instalar o Git
